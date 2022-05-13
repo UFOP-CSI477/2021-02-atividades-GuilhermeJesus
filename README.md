@@ -2,10 +2,10 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
+- Nome: Guilherme Jesus
+- Matrícula: 1928026
+- Curso: SI
+- Semestre/Ano correntes: 5° Periodo
 - Link para o seu GitHub:
 
 ## [Projeto final:](./Projeto/README.md)
